@@ -5,7 +5,7 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: Build_X64
+name: OpenWRT Build_X64
 
 on: 
   release:
